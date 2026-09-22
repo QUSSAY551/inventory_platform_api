@@ -1,3 +1,3 @@
 Business Management & Inventory Platform API
 
-in progress, learning project
+Status: Phase 2 - Git & GitHub
